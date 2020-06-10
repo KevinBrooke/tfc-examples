@@ -1,0 +1,16 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.idea
+*.idea
+.vscode
+.terraform
+.DS_Store
+__MACOSX
+Thumbs.db
+tmp*
+*.tmp
+.backup
+*.out
+*.out.json
+**/out/*
