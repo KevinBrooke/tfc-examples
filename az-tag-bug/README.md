@@ -1,5 +1,9 @@
 # Azure tag test issue
 
+https://github.com/eerkunt/terraform-compliance/issues/294
+
+**NOTE Terraform Compliance 1.2.9+ no longer have this issue**
+
 The test is looking for tags on the VM resources, "backmeup" and "terraform"
 
 Expected: The windowsservers-pass module should pass the test but the linuxservers-fail module should fail both tag tests.
